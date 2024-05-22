@@ -3,7 +3,7 @@
 -->
 <div>
 
-# <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100" align="left"/>Te doy la Bienvenida a mi Github
+# <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="150" align="left"/>Te doy la Bienvenida a mi Github
  </div>
 
 <!--
