@@ -1,7 +1,10 @@
 <!--
 ## Hi there 👋
 -->
-# <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200"/>Te doy la Bienvenida a mi Github
+<div>
+
+# <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200" align="left"/>Te doy la Bienvenida a mi Github
+ </div>
 
 <!--
 **Lara-art/Lara-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
