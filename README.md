@@ -8,7 +8,7 @@
  </div>
 
 
-  <h3 tabindex="-1">Mis redes</h3>
+  <h3>Mis redes</h3>
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-mesa-cubas/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/larartgc/)
@@ -16,7 +16,7 @@
 
 
 
- <h3 tabindex="-1">Programas de Diseño usados</h3>
+ <h3>Programas de Diseño usados</h3>
 
  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
