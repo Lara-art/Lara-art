@@ -4,7 +4,7 @@
 <h1 align="center">Te doy la Bienvenida a mi Github</h1>
 <div>
 
-<img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200" align="center"/>
+<div align="center"/><img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="300" >
  </div>
 
 
