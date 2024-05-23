@@ -1,25 +1,26 @@
 
 <h1 align="center">Te doy la Bienvenida a mi Github</h1>
-<div>
 
-<div align="center"><img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" alt="Programando con Lara" title="Programando con Lara" width="300" >
- </div>
+<h3>Mis redes</h3>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-mesa-cubas/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/larartgc/)
 
-  <h3>Mis redes</h3>
-
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-mesa-cubas/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/larartgc/)
-
-<p>
-Recientemente he completado un Bootcamp en Desarrollo Full-Stack Web & Mobile, donde me he enfocado en especializarme en Frontend, centrándome en la creación de interfaces atractivas, responsive y funcionales. Además, estoy ampliando mis conocimientos con un curso en maquetación web, dominando así los conocimientos aprendidos en php, JavaScript, HTML, CSS y librerías de este como bootstrap.
+<p dir="auto">
+<animated-image data-catalyst="" style="float: right; width: 400px;"><img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" style="max-width: 100%; display: inline-block;" alt="Programando con Lara" title="Programando con Lara">
+      
 </p>
-<p>
-Como profesional apasionada por la tecnología y el diseño, me encanta aprender y mejorar mis habilidades constantemente. Creciendo con proyectos desafiantes que me permitan aplicar mi experiencia en el desarrollo de productos digitales de calidad.
-Si quieres ver mis proyectos te dejo por aquí dos enlaces: 
+<h3>💻 Sobre mi</h3>
+<ul dir="auto">
 
-- Mis proyectos de enmaquetacion web en Aspasia: <a href="https://formanet.net/web/laram/">https://formanet.net/web/laram/</a>
-</p>
+- 💜 Apasionada de las tecnologías y el diseño implementada a ellas.
+- 🎓 Bootcamp en Desarrollo Full-Stack Web & Mobile, Confección; Publicación de páginas web; Ingeniera en Diseño Industrial y Desarrollo de Productos.
+- ✍️ Trabajo en el Frontend en React y Three.js.
+- 📫 Contacta conmigo por <a href="mailto:mesacubas.lara@gmail.com" alt="correo de Lara" title="correo de Lara" >mesacubas.lara@gmail.com</a>.
+- 📙 Mis proyectos de enmaquetacion web: <a href="https://formanet.net/web/laram/">https://formanet.net/web/laram/</a>
+</ul>
+ 
+        
 
 <!--
 ## Hi there 👋
