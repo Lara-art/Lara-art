@@ -1,10 +1,24 @@
 <!--
 ## Hi there 👋
 -->
+<h1 align="center">Te doy la Bienvenida a mi Github</h1>
 <div>
 
-# <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="250" align="left"/>Te doy la Bienvenida a mi Github
+<img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200" align="left"/>
  </div>
+
+
+ 
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-mesa-cubas/)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/larartgc/)
+
+ 
+ <p> Los programas de diseño que utilizo </p>
+
+ ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+ ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+
 
 <!--
 **Lara-art/Lara-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
