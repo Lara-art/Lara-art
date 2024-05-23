@@ -10,7 +10,8 @@
 <animated-image data-catalyst="" style="float: right; width: 400px;"><img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" style="max-width: 100%; display: inline-block;" alt="Programando con Lara" title="Programando con Lara">
       
 </p>
-<h3>💻 Sobre mi</h3>
+<h3>🌵 Sobre mi</h3>
+
 <ul dir="auto">
 
 - 💜 Apasionada de las tecnologías y el diseño implementada a ellas.
@@ -21,7 +22,7 @@
 </ul>
  
 
-<h3>💻 Skills</h3>
+<h3>💻 Tecnologías</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br/>
