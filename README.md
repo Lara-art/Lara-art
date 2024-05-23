@@ -1,5 +1,4 @@
-
-<h1 align="center">Te doy la Bienvenida a mi Github</h1>
+<h1 align="center">👋 Te doy la Bienvenida a mi Github</h1>
 
 <h3>Mis redes</h3>
 
@@ -7,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/larartgc/)
 
 <p dir="auto">
-<animated-image data-catalyst="" style="float: right; width: 400px;"><img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" style="max-width: 100%; display: inline-block;" alt="Programando con Lara" title="Programando con Lara">
+<animated-image data-catalyst="" style="float: right; width: 400px;"><img align="right" height="240" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" style="max-width: 100%; display: inline-block; " alt="Programando con Lara" title="Programando con Lara">
       
 </p>
 <h3>🌵 Sobre mi</h3>
