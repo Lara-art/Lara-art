@@ -1,4 +1,4 @@
-<h1 align="center">👋 Te doy la Bienvenida a mi Github</h1>
+<h1 align="center">👋 Soy Lara. Te doy la Bienvenida a mi Github</h1>
 
 
 <h3>✨ Mis redes</h3>
