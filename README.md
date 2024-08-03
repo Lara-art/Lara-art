@@ -18,7 +18,7 @@
 <li>🎓 Bootcamp en Desarrollo Full-Stack Web & Mobile; Confección y Publicación de páginas web; Ingeniera en Diseño Industrial y Desarrollo de Productos.</li>
 <li>✍️ Enmaquetadora web. Diseñadora web en Wordpress + el plugin de Woocommerce. Aprendiendo el Frontend con React.</li>
 <li>📫 Contacta conmigo por <a href="mailto:mesacubas.lara@gmail.com" alt="correo de Lara" title="correo de Lara" >mesacubas.lara@gmail.com</a>.</li>
-<li>📙 Mis proyectos de enmaquetacion web: <a href="https://formanet.net/web/laram/">https://formanet.net/web/laram/</a></li>
+<li>📙 Mis proyectos del curso Confección y Publicación de páginas web: <a href="https://formanet.net/web/laram/">https://formanet.net/web/laram/</a></li>
 </ul>
  
 
