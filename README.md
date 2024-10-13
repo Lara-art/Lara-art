@@ -16,7 +16,7 @@
 <ul dir="auto">
 <li>💜 Apasionada de las tecnologías y el diseño implementada a ellas.</li>
 <li>🎓 Bootcamp en Desarrollo Full-Stack Web & Mobile; Confección y Publicación de páginas web; Ingeniera en Diseño Industrial y Desarrollo de Productos.</li>
-<li>✍️ Siempre en el aprendiendo con React.</li>
+<li>✍️ Siempre en el aprendizaje con React.</li>
 <li>📫 Contacta conmigo por <a href="mailto:mesacubas.lara@gmail.com" alt="correo de Lara" title="correo de Lara" >mesacubas.lara@gmail.com</a>.</li>
 <li>📙 Mis proyectos del curso Confección y Publicación de páginas web: <a href="https://formanet.net/web/laram/">https://formanet.net/web/laram/</a></li>
 </ul>
