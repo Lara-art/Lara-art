@@ -15,7 +15,7 @@
 
 <ul dir="auto">
 <li>💜 Apasionada de las tecnologías y el diseño implementada a ellas.</li>
-<li>🎓 Bootcamp en Desarrollo Full-Stack Web & Mobile; Confección y Publicación de páginas web; Ingeniera en Diseño Industrial y Desarrollo de Productos.</li>
+<li>🎓 Ingeniera en Diseño Industrial y Desarrollo de Productos; Bootcamp en Desarrollo Full-Stack Web & Mobile; Confección y Publicación de páginas web.</li>
 <li>✍️ Siempre en el aprendizaje con React.</li>
 <li>📫 Contacta conmigo por <a href="https://www.linkedin.com/in/lara-mesa-cubas/" alt="Linkedin de Lara" title="Linkedin de Lara" >Linkedin</a>.</li>
 </ul>
