@@ -20,6 +20,9 @@
 <li>📫 Contacta conmigo por <a href="https://www.linkedin.com/in/lara-mesa-cubas/" alt="Linkedin de Lara" title="Linkedin de Lara" >Linkedin</a>.</li>
 </ul>
  
+<div align="center">
+  <img src="./assets/rainbow-line.gif" width="100%">
+</div>
 
 <h3>💻 Tecnologías</h3>
 
